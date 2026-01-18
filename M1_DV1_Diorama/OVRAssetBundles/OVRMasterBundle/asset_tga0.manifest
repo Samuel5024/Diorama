@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.43f1
+CRC: 2085699401
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8ac1baafd1b19df13e062af1e35f408
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7950d07a0785a5a2a4f663a1777bc712
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ANGRY MESH/Snowman/Sources/Textures/Snowman_Albedo_01 (A Smoothness).tga
+- Assets/ANGRY MESH/Snowman/Sources/Textures/Snowman_Normal.tga
+- Assets/ANGRY MESH/Snowman/Sources/Textures/Snowman_AO.tga
+Dependencies: []

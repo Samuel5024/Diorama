@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.43f1
+CRC: 2010748467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca8e59cdb3994d505ac6de3bb4a4437e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: de03421db970aa28df6133612bef95a3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2310bc9741b6b90c13a7a4d9e3efa66e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/BobHead.prefab
+- Assets/ANGRY MESH/Snowman/Prefabs/Snowman_01.prefab
+Dependencies:
+- C:/Users/fuhrmas1/Documents/GitHub/Diorama/M1_DV1_Diorama/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/fuhrmas1/Documents/GitHub/Diorama/M1_DV1_Diorama/OVRAssetBundles/OVRMasterBundle/asset_mat0

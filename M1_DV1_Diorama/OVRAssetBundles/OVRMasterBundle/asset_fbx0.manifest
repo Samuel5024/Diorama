@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.43f1
+CRC: 1608827033
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dcf0beba39cc296fd141e51647b9f9bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 421e2bac3e91fd24439953e087f5d501
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 99040bb408c1b4ddba1af37d99d2956f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ANGRY MESH/Snowman/Sources/Meshes/Snowman.FBX
+Dependencies:
+- C:/Users/fuhrmas1/Documents/GitHub/Diorama/M1_DV1_Diorama/OVRAssetBundles/OVRMasterBundle/asset_mat0

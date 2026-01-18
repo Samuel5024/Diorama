@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.43f1
+CRC: 3320587067
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6328b5c7018735aa88f26f92663b10d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 998199589982a4b93fd880126212b44a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Wispy Sky/Textures/SkyBox020006.tif
+- Assets/Wispy Sky/Textures/SkyBox020002.tif
+- Assets/Wispy Sky/Textures/SkyBox020005.tif
+- Assets/Wispy Sky/Textures/SkyBox020004.tif
+- Assets/Wispy Sky/Textures/SkyBox020001.tif
+- Assets/Wispy Sky/Textures/SkyBox020003.tif
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.43f1
+CRC: 70819452
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c3025797e81beecf33271b4282db590
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7c1685e6a1ff1c0f24b2723200803690
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/wooden_crate_texture_by_dementiarunner_d79rssy-375w-2x.jpg
+- Assets/Textures/nature_trail_by_pajunen_dl36rkc-pre.jpg
+Dependencies: []

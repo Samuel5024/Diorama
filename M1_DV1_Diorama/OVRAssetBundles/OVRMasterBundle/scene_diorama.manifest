@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.43f1
+CRC: 3777901958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76a7c3d1643d507eb36913751eee17ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce25c6957af59dd1606fef57dcac32ee
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d90210cd8121da29283b74cdf23c6093
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2fadf230d1919748a9aa21d40f74619, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83e4e6cca11330d4088d729ab4fc9d9f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 017c5e3933235514c9520e1dace2a4b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0cb9aa70a22847b5925ee5f067c10a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Diorama.unity
+Dependencies:
+- C:/Users/fuhrmas1/Documents/GitHub/Diorama/M1_DV1_Diorama/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/fuhrmas1/Documents/GitHub/Diorama/M1_DV1_Diorama/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/fuhrmas1/Documents/GitHub/Diorama/M1_DV1_Diorama/OVRAssetBundles/OVRMasterBundle/asset_prefab0
