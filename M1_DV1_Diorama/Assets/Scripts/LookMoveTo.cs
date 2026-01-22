@@ -6,7 +6,6 @@ public class LookMoveTo : MonoBehaviour
     
     void Update()
     {
-        Transform camera = Camera.main.transform;
         Ray ray;
         RaycastHit hit;
         GameObject hitObject;
@@ -23,5 +22,12 @@ public class LookMoveTo : MonoBehaviour
                 transform.position = hit.point;
             }
         }     
+    }
+
+    private Transform camera;
+    
+    void Start() 
+    {
+        camera = Camera.main.transform;
     }
 }
